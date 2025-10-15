@@ -1,0 +1,29 @@
+body {
+    font-family: 'Georgia', serif; /* fonte  */
+    background-color: #72a2da; /* Cor de fundo */
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background-color: #4981c2; 
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.momento img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px; /* Bordas arredondadas para fotos */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.momento {
+    background-color: #9bc2ee;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    border-radius: 10px;
+}
